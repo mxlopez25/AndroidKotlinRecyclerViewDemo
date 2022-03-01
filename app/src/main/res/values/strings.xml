@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">KotlinRecyclerViewDemo</string>
+
+    <string-array name="programming_languages">
+        <item>Kotlin</item>
+        <item>Java</item>
+        <item>JavaScript</item>
+        <item>HTML</item>
+        <item>Python</item>
+        <item>C++</item>
+        <item>C#</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Random Description 1</item>
+        <item>Random Description 2</item>
+        <item>Random Description 3</item>
+        <item>Random Description 4</item>
+        <item>Random Description 5</item>
+        <item>Random Description 6</item>
+        <item>Random Description 7</item>
+    </string-array>
+</resources>
